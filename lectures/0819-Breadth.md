@@ -30,5 +30,7 @@ Repl.it (non-Python)
   * Javascript based, but little to no Javascript knowledge needed  
 
 
-## Advanced git/GitHub
+## More Plain Python
 
+* [A repo with some good code in it](https://github.com/ayushmankumar7/MAKE-MUSIC-WITH-NUMPY---YOUTUBE/blob/master/ADSR.ipynb)
+  * Youtube video that goes with it, however, a lot of it is not in English: https://www.youtube.com/watch?v=Vgp7C5TTsCs
