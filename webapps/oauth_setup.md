@@ -4,6 +4,8 @@ To use the following code, you'll need to configure APP_SECRET_KEY, GITHUB_CLIEN
 
 Example: [https://replit.com/@phtcon/spis2022-0824-try-login-1#main.py](https://replit.com/@phtcon/spis2022-0824-try-login-1#main.py)
 
+Example with nice Bootstrap menus and navigation: [https://replit.com/@PhillipConrad/spis2022-0824-try-bootstrap-flask-1#main.py](https://replit.com/@PhillipConrad/spis2022-0824-try-bootstrap-flask-1#main.py)
+
 # Configuring APP_SECRET_KEY
 
 The value of APP_SECRET_KEY is used to cryptographically sign your sessions.   It can be any string of letters and numbers such as these examples:
